@@ -1,0 +1,11 @@
+
+en:
+  admin:
+    actions:
+      charts:
+        title: "Charts"
+        menu: "Charts for %{model_label} '%{object_label}'"
+        breadcrumb: "Charts"
+        link: "Charts"
+        bulk_link: "Charts selected %{model_label_plural}"
+        done: "Chartsed"
