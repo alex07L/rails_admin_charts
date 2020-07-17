@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.version     = RailsAdminCharts::VERSION
   spec.authors     = ["alex07L"]
   spec.email       = ["alexlevesque7@hotmail.fr"]
-  spec.homepage    = "charts.html"
+  spec.homepage    = "https://github.com/alex07L/rails_admin_charts"
   spec.summary     = "Summary of RailsAdminCharts."
   spec.description = "Description of RailsAdminCharts."
   spec.license     = "MIT"
